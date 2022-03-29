@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@babel/types": "^7.17.0",
+    "rollup": "^2.70.1"
+  },
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
